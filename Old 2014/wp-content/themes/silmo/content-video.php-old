@@ -1,0 +1,12 @@
+<?php 
+$post = get_post();
+?>
+
+<div class="project_gallery project_1">
+    <div class="click_to content_video">
+        <div class="prj_title">
+        	<img src="<?php echo get_field('img_title', $post->ID)?>" />
+       </div>
+    </div>
+    <iframe src="http://player.vimeo.com/video/<?php echo get_field('video', $post->ID)?>?api=1" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>

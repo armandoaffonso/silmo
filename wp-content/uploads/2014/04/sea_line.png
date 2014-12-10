@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+<title>Get in touch  </title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.silmobonomi.com/teste/xmlrpc.php">
+
+<meta name='robots' content='noindex,follow' />
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://www.silmobonomi.com/teste/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://www.silmobonomi.com/teste/comments/feed/" />
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://www.silmobonomi.com/teste/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.silmobonomi.com/teste/wp-content/themes/ink/assets/css/font-awesome.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='stag-shortcode-styles-css'  href='http://www.silmobonomi.com/teste/wp-content/plugins/stagtools/assets/css/stag-shortcodes.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://www.silmobonomi.com/teste/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='stag-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3Aregular%2C700%7CMontserrat%3Aregular%2C700&#038;subset=latin%2Clatin&#038;ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='stag-style-css'  href='http://www.silmobonomi.com/teste/wp-content/themes/ink/style.css?ver=1.1.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.silmobonomi.com/teste/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.silmobonomi.com/teste/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<link rel='canonical' href='http://www.silmobonomi.com/teste/get-in-touch/' />
+<link rel='shortlink' href='http://wp.me/P4VRD0-2V' />
+<style type='text/css'>img#wpstats{display:none}</style><meta name="generator" content="Ink 1.1.6">
+<meta name="generator" content="StagCustomizer 1.0">
+	<style id="stag-custom-css" type="text/css">
+		body,
+		.site,
+		hr:not(.stag-divider)::before {
+			background-color: #ffffff;
+		}
+		body, .entry-subtitle {
+			font-family: "Roboto Slab";
+		}
+		a,
+		.archive-header__title span,
+		.footer-menu a:hover {
+			color: #ffffff;
+		}
+		h1, h2, h3, h4, h5, h6, .button, .stag-button, input[type="submit"], input[type="reset"], .button-secondary, legend, .rcp_subscription_level_name {
+			font-family: "Montserrat";
+		}
+		.post-grid {
+			border-color: #ffffff;
+		}
+			</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Get in touch" />
+<meta property="og:url" content="http://www.silmobonomi.com/teste/get-in-touch/" />
+<meta property="og:description" content="This is the contact page template which is totally customizable. You can choose a background image and create your content, which will display in this section. Below the page content, a contact for..." />
+<meta property="article:published_time" content="2014-04-15T09:46:31+00:00" />
+<meta property="article:modified_time" content="2014-04-15T09:46:31+00:00" />
+<meta property="article:author" content="http://www.silmobonomi.com/teste/author/silmo/" />
+<meta property="og:image" content="http://www.silmobonomi.com/teste/wp-content/uploads/2014/04/static1.jpg" />
+<meta name="twitter:site" content="@jetpack" />
+<meta name="twitter:image:src" content="http://www.silmobonomi.com/teste/wp-content/uploads/2014/04/static1.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+</head>
+<body class="page page-id-181 page-template page-template-contact-php unknown header-over stagtools" data-layout="1-1-1-1">
+
+
+<nav class="site-nav" role="complementary">
+	<div class="site-nav--scrollable-container">
+		<i class="fa fa-times close-nav"></i>
+
+				<nav id="site-navigation" class="navigation main-navigation site-nav__section" role="navigation">
+			<h4 class="widgettitle">Menu</h4>
+			<ul id="menu-silmo-menu" class="primary-menu"><li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-419"><a href="http://www.silmobonomi.com/teste/">HOME</a></li>
+<li id="menu-item-933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-933"><a href="http://www.silmobonomi.com/teste/./expedia/">Expedia</a></li>
+<li id="menu-item-934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-934"><a href="http://www.silmobonomi.com/teste/./netflix/">Netflix</a></li>
+<li id="menu-item-935" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-935"><a href="http://www.silmobonomi.com/teste/./lg/">LG</a></li>
+<li id="menu-item-936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-936"><a href="http://www.silmobonomi.com/teste/./pg/">P&#038;G</a></li>
+<li id="menu-item-937" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-937"><a href="http://www.silmobonomi.com/teste/./colgate/">Colgate</a></li>
+<li id="menu-item-938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-938"><a href="http://www.silmobonomi.com/teste/./barilla/">Barilla</a></li>
+<li id="menu-item-939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-939"><a href="http://www.silmobonomi.com/teste/./mpsp/">MPSP</a></li>
+<li id="menu-item-940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-940"><a href="http://www.silmobonomi.com/teste/./lenovo/">Lenovo</a></li>
+<li id="menu-item-941" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-941"><a href="http://www.silmobonomi.com/teste/./dafiti/">Dafiti</a></li>
+</ul>		</nav><!-- #site-navigation -->
+		
+			</div>
+</nav>
+<div class="site-nav-overlay"></div>
+
+<div id="page" class="hfeed site">
+
+	<div id="content" class="site-content">
+
+		<header id="masthead" class="site-header">
+
+			<div class="site-branding">
+									<h1 class="site-title"><a href="http://www.silmobonomi.com/teste"></a></h1>
+				
+				<p class="site-description"></p>
+			</div>
+
+			<a href="#" id="site-navigation-toggle" class="site-navigation-toggle"><i class="fa fa-navicon"></i></a>
+
+			
+		</header><!-- #masthead -->
+
+	<main id="main" class="site-main page-cover page-cover--181">
+
+		<div class="page-cover__background"></div>
+
+		
+	<style type="text/css" scoped>
+				.page-cover--181 { background-color: #0a0a0a; }
+		
+		.background-video { opacity: 0.4; }
+
+				.page-cover__background { background-image: url(http://www.silmobonomi.com/teste/wp-content/uploads/2014/04/static1.jpg); opacity: 0.4; }
+		
+		
+				.page-cover--181 { color: #ffffff; }
+		.page-cover--181 input { color: #ffffff; border-color: #ffffff; }
+		
+				.page-cover--181 a:not(.stag-button):not(.ui-tabs-anchor) { color: #ffffff; }
+		
+			</style>
+
+	
+		
+			
+<article id="post-181" class="post-181 page type-page status-publish has-post-thumbnail hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Get in touch</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>This is the contact page template which is totally customizable. You can choose a background image and create your content, which will display in this section. Below the page content, a contact form will appear.</p>
+<p><a class="stag-icon-link"  href="#" target="_self"><i class="fa fa-twitter" style="font-size: 50px; line-height: 50px;"></i></a>        <a class="stag-icon-link"  href="#" target="_self"><i class="fa fa-dribbble" style="font-size: 50px; line-height: 50px;"></i></a>        <a class="stag-icon-link"  href="#" target="_self"><i class="fa fa-instagram" style="font-size: 50px; line-height: 50px;"></i></a></p>
+<p><strong>Telephone number<br />
+</strong>0048 8839 8823   /   0023 2881 8666</p>
+<p><strong>Email</strong><br />
+support[at]codestag.com    /    shop[at]codestag.com</p>
+			</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+
+		
+	</main><!-- #main -->
+
+	<section class="contact-form">
+		
+		<form action="http://www.silmobonomi.com/teste/get-in-touch/" id="contactForm" method="post">
+			<h2 class="contact-form__title">Send a Message</h2>
+
+			<div class="grid">
+			    <p class="unit one-of-two">
+			        <input type="text" name="contactName" id="contactName" value="" required>
+			        <label for="contactName">Name</label>
+			        			    </p>
+
+			    <p class="unit one-of-two">
+			        <input type="email" name="email" id="email" value="" required>
+			        <label for="email">Email</label>
+			        			        			    </p>
+
+			    <p class="unit span-grid">
+			        <textarea rows="6" name="comments" id="commentsText" required></textarea>
+			        <label for="commentsText">Your Message</label>
+			        			    </p>
+
+			    <p class="unit span-grid buttons">
+			        <input type="submit" id="submitted" class="contact-form-button" name="submitted" value="Send Message">
+			    </p>
+			</div>
+		</form>
+
+			</section>
+
+		<article id="post-18" class="post-18 post type-post status-publish format-standard has-post-thumbnail hentry category-colgate category-technology tag-project post-grid" style=" height: 300px;">
+	
+			<a href="https://www.linkedin.com/profile/view?id=24088521" rel="bookmark">
+				<div class="post-cover post-cover-18 stag-image--none" style="background-image: url(http://www.silmobonomi.com/teste/wp-content/uploads/2014/09/cover_1920_footer.jpg);"></div>
+			</a>
+		</article>
+
+	</div><!-- #content -->
+
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/plugins/stagtools/assets/js/stag-shortcode-scripts.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201437'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var StagFitvidsCustomSelectors = {"customSelector":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
+var postSettings = {"ajaxurl":"http:\/\/www.silmobonomi.com\/teste\/wp-admin\/admin-ajax.php","nonce":"f5be0c2724","category":"","search":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/themes/ink/assets/js/jquery.custom.min.js?ver=1.1.6'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/themes/ink/assets/js/plugins.js?ver=1.1.6'></script>
+<script type='text/javascript' src='http://www.silmobonomi.com/teste/wp-content/themes/ink/assets/js/lib/fitvids/jquery.fitvids.min.js?ver=1.1.1'></script>
+
+	<script src="http://stats.wp.com/e-201437.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.1.1',blog:'72896190',post:'181',tz:'0'});
+	var load_cmc = function(){linktracker_init(72896190,181,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
