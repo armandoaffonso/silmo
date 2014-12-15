@@ -21,7 +21,7 @@ get_header(); ?>
 		<article id="post-18" class="post-18 post type-post format-standard has-post-thumbnail hentry post-grid">
 	
 			
-				<div class="post-cover post-cover-18" style="background-image: url(wp-content/uploads/2014/09/cover_1920_home.jpg);"></div>
+				<div class="post-cover post-cover-18" style="background-image: url(wp-content/uploads/2014/12/silmo-cover.jpg);"></div>
 			
 		</article>
 
@@ -266,12 +266,12 @@ height: 100%;
 			<?php endif; ?>
 
 
-				<article id="post-18" class="post-18 post type-post format-standard has-post-thumbnail hentry post-grid">
+				<!--<article id="post-18" class="post-18 post type-post format-standard has-post-thumbnail hentry post-grid">
 		
 				
 					<div class="post-cover post-cover-18" style="background-image: url(wp-content/uploads/2014/09/cover_1920_plato21.jpg);"></div>
 				
-			</article>
+			</article> -->
 
 
 
